@@ -1,0 +1,26 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="200" cy="150" r="120" fill="#E3F2FD" opacity="0.3"/>
+  
+  <!-- People working together -->
+  <rect x="140" y="120" width="120" height="80" rx="8" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+  
+  <!-- Laptop -->
+  <rect x="170" y="140" width="60" height="40" rx="4" fill="#1A3B5C"/>
+  <rect x="175" y="145" width="50" height="30" rx="2" fill="#FFFFFF"/>
+  
+  <!-- Lightbulb (idea) -->
+  <circle cx="300" cy="100" r="25" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2"/>
+  <path d="M285 100 L295 110 L305 100 L315 110" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Growth arrow -->
+  <path d="M80 180 L120 140 L140 160 L180 120" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 130 L180 120 L180 140" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Stars (success) -->
+  <path d="M120 80 L123 87 L130 87 L124 91 L127 98 L120 94 L113 98 L116 91 L110 87 L117 87 Z" fill="#F59E0B"/>
+  <path d="M320 180 L322 185 L327 185 L323 188 L325 193 L320 190 L315 193 L317 188 L313 185 L318 185 Z" fill="#F59E0B"/>
+  
+  <!-- Text "YouthYC" -->
+  <text x="200" y="250" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1A3B5C">YouthYC</text>
+</svg>

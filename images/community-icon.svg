@@ -1,0 +1,11 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Multiple figures representing community -->
+  <circle cx="9" cy="9" r="4" fill="#2563EB" opacity="0.8"/>
+  <circle cx="15" cy="9" r="4" fill="#2563EB" opacity="0.8"/>
+  <circle cx="21" cy="9" r="4" fill="#2563EB" opacity="0.8"/>
+  
+  <!-- Community connection -->
+  <path d="M2 25 C2 19 5 15 9 15 C11 15 12.5 16 13.5 17.5" stroke="#2563EB" stroke-width="2" fill="none"/>
+  <path d="M16.5 17.5 C17.5 16 19 15 21 15 C25 15 28 19 28 25" stroke="#2563EB" stroke-width="2" fill="none"/>
+  <path d="M8 25 C8 21 11 18 15 18 C19 18 22 21 22 25" stroke="#2563EB" stroke-width="2" fill="none"/>
+</svg>

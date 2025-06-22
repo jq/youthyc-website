@@ -1,0 +1,12 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mentor figure -->
+  <circle cx="12" cy="8" r="5" fill="#2563EB" opacity="0.8"/>
+  <path d="M3 25 C3 18 7 14 12 14 C17 14 21 18 21 25" stroke="#2563EB" stroke-width="2" fill="none"/>
+  
+  <!-- Student figure -->
+  <circle cx="21" cy="12" r="4" fill="#64748B" opacity="0.8"/>
+  <path d="M27 25 C27 20 24 17 21 17 C18 17 15 20 15 25" stroke="#64748B" stroke-width="2" fill="none"/>
+  
+  <!-- Connection line -->
+  <path d="M15 15 L18 18" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+</svg>

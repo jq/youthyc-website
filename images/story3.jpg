@@ -1,0 +1,18 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="200" fill="#FFF3E0"/>
+  
+  <!-- Market stall illustration -->
+  <rect x="100" y="80" width="100" height="80" rx="4" fill="#FFFFFF" stroke="#FF9800" stroke-width="2"/>
+  <path d="M90 80 L110 60 L190 60 L210 80" fill="#FF9800" opacity="0.3"/>
+  
+  <!-- Fruits/vegetables -->
+  <circle cx="130" cy="110" r="12" fill="#FF5722"/>
+  <circle cx="160" cy="110" r="12" fill="#4CAF50"/>
+  <circle cx="170" cy="130" r="12" fill="#FFC107"/>
+  <circle cx="140" cy="130" r="12" fill="#E91E63"/>
+  
+  <!-- LocalMarket text -->
+  <rect x="100" y="150" width="100" height="30" rx="4" fill="#FFFFFF" opacity="0.9"/>
+  <text x="150" y="170" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#F57C00">LocalMarket</text>
+</svg>
