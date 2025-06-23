@@ -1,0 +1,5 @@
+{
+  "name": "youthyc-website", // 替换为你的Worker名称
+  "compatibility_date": "2025-06-23", // 使用最新日期
+  "main": "index.html" // 替换为你的入口文件路径
+}
