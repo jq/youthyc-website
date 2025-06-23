@@ -4,6 +4,5 @@
   "main": "index.js", // Worker入口文件
   "site": {
     "bucket": "./assets" ,// 静态文件目录
-    "main": "./index.js" // Worker入口文件
   }
 }
